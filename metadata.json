@@ -1,0 +1,12 @@
+{
+  "name": "videcore video wallpaper",
+  "description": "moving wallpaper extension, pick any video file u want and its done!",
+  "uuid": "istanillit@illitstanning.github.com",
+  "shell-version": [
+    "45",
+    "46"
+  ],
+  "url": "https://github.com/istanillitmokaismybias/loverboy.git"
+  "version": 1
+}
+  
